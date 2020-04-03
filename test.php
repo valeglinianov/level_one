@@ -3,7 +3,11 @@
 <body>
 <b>
 <?php
-print 'We\'ll  each have a bowl of soup.';
+print '<ul>
+        <li>Los Angeles Lakers</li>
+        <li>Milwaukee Bucks</li>
+        <li>Brooklyn Nets</li>
+       </ul>';
 ?>
 </b>
 </body>
