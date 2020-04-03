@@ -3,7 +3,8 @@
 <body>
 <b>
 <?php
-print "Hello, World!";
+print "The population of the US is about: ";
+print number_format(320853904);
 ?>
 </b>
 </body>
