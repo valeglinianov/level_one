@@ -1,13 +1,9 @@
 <html>
 <head><title>PHP says hello</title></head>
 <body>
-<b>
+<b>Сегодня
 <?php
-print '<ul>
-        <li>Los Angeles Lakers</li>
-        <li>Milwaukee Bucks</li>
-        <li>Brooklyn Nets</li>
-       </ul>';
+print date("Y-m-d");
 ?>
 </b>
 </body>
